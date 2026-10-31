@@ -1,0 +1,25 @@
+{
+  "name": "dsh-life-kernel",
+  "version": "2.0.0",
+  "description": "DSH 生活内核 MCP：心情、精力、此刻在做什么、成长记录、自己惦记的事。给角色一层「过日子」的状态，人格插件管她是谁，这个管她现在怎么样。",
+  "license": "MIT",
+  "type": "commonjs",
+  "main": "server.js",
+  "bin": {
+    "dsh-life": "server.js"
+  },
+  "scripts": {
+    "serve": "node server.js"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "mcp",
+    "personality",
+    "emotion",
+    "companion"
+  ]
+}

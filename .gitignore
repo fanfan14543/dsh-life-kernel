@@ -1,0 +1,9 @@
+state.json
+state.json.*
+bridge.json
+growth.jsonl
+days/
+sessions/
+dreams/
+node_modules/
+*.log
